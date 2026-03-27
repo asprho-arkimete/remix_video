@@ -27,6 +27,9 @@ Durante l'installazione seleziona **Python 3.10**.
 
 istalla python 3.10 nel sistema operativo windows 32bit or 64bit: https://www.python.org/downloads/release/python-3100/
 
+scarica,istalla cursor per edit code python:
+https://cursor.com/get-started?utm_source=google_paid&utm_campaign=[Search]%20[Brand]%20[EN]%20[EMEA%20T1]%20[Broad]%20[Max%20Conv]%20[Subscribes]%20Brand&utm_term=cursor%20agent&utm_medium=paid&utm_content=799669577710&cc_platform=google&cc_campaignid=23633435220&cc_adgroupid=197790260567&cc_adid=799669577710&cc_keyword=cursor%20agent&cc_matchtype=b&cc_device=c&cc_network=g&cc_placement=&cc_location=1008736&cc_adposition=&gad_source=1&gad_campaignid=23633435220&gbraid=0AAAABAkdGgRhKPWnW22EPSKYaajJkUUEN&gclid=Cj0KCQjw1ZjOBhCmARIsADDuFTDd_ZFJNPCRyaAmhc_5pGbVkZK5GdeSZu0fbtfDGjQud3cuey1jcNgaApccEALw_wcB
+
 ---
 
 ### 2. Clona il repository
