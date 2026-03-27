@@ -25,6 +25,8 @@ Scarica e installa Anaconda:
 
 Durante l'installazione seleziona **Python 3.10**.
 
+istalla python 3.10 nel sistema operativo windows 32bit or 64bit: https://www.python.org/downloads/release/python-3100/
+
 ---
 
 ### 2. Clona il repository
